@@ -1,5 +1,5 @@
 # PersonalCalculaorPallab
 
-https://ayanmondolpallab.github.io/PersonalCalculaorPallab/
+https://ayanmondolpallab.github.io/PersonalCalculaorPallab/index.html/
 
 
