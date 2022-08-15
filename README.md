@@ -1,3 +1,3 @@
-# Personal-Calculaor-Pallab-
+# PersonalCalculaorPallab
 
-https://ayanmondolpallab.github.io/Personal-Calculaor-Pallab/
+
